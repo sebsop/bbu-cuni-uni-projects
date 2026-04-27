@@ -17,7 +17,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🧮 Algebra – Grade: 9</summary>
         <strong>- Short Description:</strong> Covered the basics of linear algebra and introductory cryptography concepts.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem1/algebra">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem1/algebra">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Simple project generating all possible binary echelon matrices.</li>
@@ -28,7 +28,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>📈 Mathematical Analysis – Grade: 10</summary>
         <strong>- Short Description:</strong> Learned fundamental concepts of differential and integral calculus for functions of one or several real variables, with applications in optimization and data science.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem1/analysis">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem1/analysis">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Implemented numerical methods, ML models, and visualizations (p-norms, trapezoidal integration, Ridge Regression).</li>
@@ -40,7 +40,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>💽 Computer Systems Architecture – Grade: 8</summary>
         <strong>- Short Description:</strong> Gained an understanding of 80x86 architecture and assembly programming, covering data representation, instructions, and memory management.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem1/computer-systems-architecture">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem1/computer-systems-architecture">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Exercised with registers, memory, and low-level operations through simple .asm programs close to hardware.</li>
@@ -51,7 +51,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🖥️ Fundamentals of Programming – Grade: 10</summary>
         <strong>- Short Description:</strong> Learned Python programming fundamentals, procedural and object-oriented programming, modular design, testing, and software design principles.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem1/fundamentals-of-programming">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem1/fundamentals-of-programming">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Designed and implemented layered applications using modular architecture, including repositories, services, and UI layers, with support for different storage types.</li>
@@ -76,7 +76,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🔢 Advanced Methods for Solving Mathematical and Algorithmic Problems – Grade: 10</summary>
         <strong>- Short Description:</strong> Studied and implemented fundamental algorithms, data structures, graph algorithms, dynamic programming, and applied mathematical methods in computer science.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem2/advanced-methods-for-solving-mathematical-and-algorithmic-problems">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem2/advanced-methods-for-solving-mathematical-and-algorithmic-problems">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Very simple project generating the 17 roots of unity.</li>
@@ -87,7 +87,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🗂️ Data Structures and Algorithms – Grade: 9</summary>
         <strong>- Short Description:</strong> Learned and implemented a wide range of data structures and abstract data types (arrays, linked lists, heaps, hash tables, trees, ADTs) while analyzing their complexities, operations, and real-world applications.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem2/data-structures-and-algorithms">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem2/data-structures-and-algorithms">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Implemented various Abstract Data Types (ADTs) in C++ using given data structures, respecting interfaces, and analyzing algorithm complexities.</li>
@@ -98,7 +98,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🌀 Dynamical Systems – Grade: 10</summary>
         <strong>- Short Description:</strong> Studied and practiced differential equations and dynamical systems, including linear and nonlinear equations, stability analysis, phase portraits, and numerical methods (Euler, Runge-Kutta).<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem2/dynamical-systems">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem2/dynamical-systems">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Solved various differential equations and dynamical systems problems from the course folder using Maple for computations, visualizations, and analysis.</li>
@@ -109,7 +109,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🌐 Graph Algorithms – Grade: 10</summary>
         <strong>- Short Description:</strong> Studied graph theory concepts, algorithms, and applications (connectivity, shortest paths, MSTs, NP-complete problems, flows, matchings).<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem2/graph-algorithms">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem2/graph-algorithms">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Solved various graph problems, including graph coloring, shortest/longest path, minimum-cost, and related algorithmic challenges. Mainly in Python.</li>
@@ -120,7 +120,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🖱️ Object Oriented Programming – Grade: 10</summary>
         <strong>- Short Description:</strong> Learned and applied C/C++ fundamentals, modular programming, OOP, templates/STL, inheritance, polymorphism, RAII, GUI development with Qt, event-driven programming, and design patterns.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem2/object-oriented-programming">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem2/object-oriented-programming">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Resolved assignments by creating C/C++ programs, including console apps with menus, Qt GUI applications, and implementations of OOP concepts, design patterns, templates, and STL containers.</li>
@@ -131,7 +131,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>💻 Operating Systems – Grade: 10</summary>
         <strong>- Short Description:</strong> Grasped operating system concepts, Unix/Windows commands, shell programming with sed, grep, awk, and Bash, processes and threads in C, memory and file management, I/O operations, concurrency, and kernel architectures.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr1-sem2/operating-systems">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr1-sem2/operating-systems">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Contains lab work related to processes, file management, grep, sed awk and Bash.</li>
@@ -154,7 +154,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🧠 Artificial Intelligence – Grade: 10</summary>
         <strong>- Short Description:</strong> Provided a comprehensive overview of artificial intelligence, covering fundamental concepts, machine learning, neural networks, intelligent systems, search algorithms, evolutionary computation, and advanced AI models.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem2/artificial-intelligence">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem2/artificial-intelligence">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Contains laboratory work in Jupyter Notebooks (converted to text to use up less space) using Python, covering perceptrons, CNNs, computer vision, evolutionary algorithms, and other machine learning tasks.</li>
@@ -165,7 +165,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🛢 Database Management Systems – Grade: 10</summary>
         <strong>- Short Description:</strong> Covers database fundamentals, including concurrency control, recovery, security, query optimization, distributed and parallel databases, and data stream processing<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem2/database-management-systems">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem2/database-management-systems">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Lab work in SQL Server and Visual Studio for building ADO.NET applications and handling transactions.</li>
@@ -177,7 +177,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🌎 Web Programming – Grade: 10</summary>
         <strong>- Short Description:</strong> Introductory course to modern web development, covering WWW fundamentals, HTML, CSS, JavaScript (including libraries and frameworks), XML/JSON, and server-side technologies (PHP, JSP, ASP.NET).<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem2/web-programming">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem2/web-programming">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Solved assignments related to CSS, HTML, JavaScript, JSP, ASP, PHP, and Angular.</li>
@@ -187,13 +187,13 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
     <li>
       <details>
         <summary>⚙️ Software Engineering – Grade: 10</summary>
-        <strong>- Short Description:</strong> Completed a semester-long team project, developing a complex app over multiple iterations following software engineering principles. The project is available in the <a href="https://github.com/dosqas/se-hospital-duo" target="_blank">se-hospital-duo repository</a>.<br>
+        <strong>- Short Description:</strong> Completed a semester-long team project, developing a complex app over multiple iterations following software engineering principles. The project is available in the <a href="https://github.com/sebsop/se-hospital-duo" target="_blank">se-hospital-duo repository</a>.<br>
       </details>
     </li>
     <li>
       <details>
         <summary>ⓘ Systems for Design and Implementation – Grade: 10</summary>
-        <strong>- Short Description:</strong> Completed a semester-long individual project, developing a complex web app over multiple iterations following software engineering principles. The project is available in the <a href="https://github.com/dosqas/dosq.fm-lite" target="_blank">dosq.fm-lite repository</a>.<br>
+        <strong>- Short Description:</strong> Completed a semester-long individual project, developing a complex web app over multiple iterations following software engineering principles. The project is available in the <a href="https://github.com/sebsop/dosq.fm-lite" target="_blank">dosq.fm-lite repository</a>.<br>
       </details>
     </li>
   </ul>
@@ -208,7 +208,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>📗 Programming in C# Language – Grade: 10</summary>
         <strong>- Short Description:</strong> In-depth C# course covering managed code, OOP, memory management, generics, delegates/events, and key .NET features.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem1/csharp-programming">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem1/csharp-programming">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Contains completed C# assignments, including console apps with complex algorithms and challenges that exercise different parts of the language.</li>
@@ -219,7 +219,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🧬 Evolutionary Algorithms – Grade: 10</summary>
         <strong>- Short Description:</strong> Covered evolutionary computation and genetic algorithms, including population models, selection, mutation, crossover, schema theorem, probabilistic analysis, and classifier systems with learning algorithms.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem1/evolutionary-algorithms">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem1/evolutionary-algorithms">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Contains only the first assignment: a Python implementation of a simple genetic algorithm, solving OneMax and alternating 1s/0s problems, with experiments on different mutation and crossover settings.</li>
@@ -230,7 +230,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>☕ Programming in Java Language – Grade: 10</summary>
         <strong>- Short Description:</strong> Covers Java fundamentals: syntax, classes and inheritance, interfaces, exception handling, memory management, JVM, threads, and standard libraries for files, collections, and networking.<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem1/java-programming">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem1/java-programming">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Contains Java applications built mainly with Maven, including a Brainfuck interpreter, exercises on threads, multithreading, ForkJoinPools, and various tasks exploring Java features.</li>
@@ -241,7 +241,7 @@ Welcome! Here you’ll find all the projects and coursework I completed during m
       <details>
         <summary>🖧 Introduction to Networking – Grade: 10</summary>
         <strong>- Short Description:</strong> Touched networking fundamentals in-depth, OSI/TCP-IP models, addressing and routing, transport and application protocols, network security, media layers (Ethernet/Wi-Fi), and basic web development (HTML/CSS).<br>
-        <strong>- Coursework:</strong> <a href="https://github.com/dosqas/bbu-cuni-uni-projects/tree/master/yr2-sem1/networking">GitHub</a><br>
+        <strong>- Coursework:</strong> <a href="https://github.com/sebsop/bbu-cuni-uni-projects/tree/master/yr2-sem1/networking">GitHub</a><br>
         <strong>- Contents:</strong>
         <ul>
           <li>Contains my simple static web project, which I completed on the topic of Prague.</li>
