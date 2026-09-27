@@ -1,6 +1,6 @@
 # 🎓 University Work
 
-Welcome! Here you’ll find all the projects and coursework I completed during my university years at Babeș-Bolyai University (BBU) in Cluj-Napoca, along with work from my Erasmus semester at Charles University (CUNI) in Prague. Each relevant computer science course also includes a brief description and the grade I achieved. I hope you find it helpful and interesting!  
+Welcome! Here you’ll find all the projects and coursework I completed during my Bachelor's in Computer Science (taught in English) at Babeș-Bolyai University (BBU) in Cluj-Napoca, along with work from my Erasmus semester at Charles University (CUNI) in Prague. Each relevant course also includes a brief description and the grade I achieved. I hope you find it helpful and interesting!  
 
 **Note:** Grades are on a 10-point scale (10 = highest, 1 = lowest).  
 
